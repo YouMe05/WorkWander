@@ -1,2 +1,2 @@
 # WorkWander
-This project is a Job Posting &amp; Application Platform. It is a job matching system that enables companies to post job listings and job seekers to search and apply.
+This program is a C++ terminal-based job matching system that enables companies to post job listings and allows job seekers to search and apply. It uses a custom linked list structure to manage dynamic job and applicant data.The system also includes authentication and role-based access control for job seekers and companies, supporting features such as resume submission, job requirement filtering, and persistent file-based data handling to simulate a basic job application workflow.
